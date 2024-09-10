@@ -155,7 +155,7 @@ a:hover {
     text-align: center;
 }
 
-@media (max-width : 1200px) {
+@media (max-width : 768px) {
     .titulo {
         flex-direction: column-reverse;
     }
